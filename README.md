@@ -29,4 +29,5 @@
 </local:MyCard>
 ```
 📦将以下代码复制到刚才生成的Custom.xaml，改完之后`Ctrl+S`保存文件，重启PCL
+
 📥如果你把握不了复制的格式，也可以下载整个仓库，将原来的`Custom.xaml`文件删了，再将仓库里的`cat&dragon.xaml`改成`Custom.xaml`，重启PCL
