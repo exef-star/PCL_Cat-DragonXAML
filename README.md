@@ -1,10 +1,10 @@
 ![](https://s21.ax1x.com/2024/07/31/pkOjw24.png)
 
 # PCL_Cat-DragonXAML(PCL首页随机暹罗猫&小恐龙表情包)📈
-![a](https://tool.lu/shield/ajax.html?color=%2397CA00&subject=Versions&status=1.0.6)
-![a](https://tool.lu/shield/ajax.html?color=%23007EC6&subject=Licenses&status=MIT)
+![a](https://badgen.net/static/license/MIT/blue)
 ![Static Badge](https://img.shields.io/badge/PCL_Cat-DragonXAML?logo=Github&logoColor=white&label=Github&labelColor=%23555&color=%23007EC6)
 ![Static Badge](https://img.shields.io/badge/exef-star?style=social&logo=Github&logoColor=%23000&label=Github&labelColor=%23555&color=%23007EC6)
+![a](https://img.shields.io/badge/build-passing-brightgreen)
 
 
 ## 使用方法
