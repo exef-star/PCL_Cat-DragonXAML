@@ -1,6 +1,12 @@
 ![](https://s21.ax1x.com/2024/07/31/pkOjw24.png)
 
 # PCL_Cat-DragonXAML(PCL首页随机暹罗猫&小恐龙表情包)📈
+![](https://tool.lu/shield/ajax.html?color=%2397CA00&subject=Versions&status=1.0.6)
+![](https://tool.lu/shield/ajax.html?color=%23007EC6&subject=Licenses&status=MIT)
+![Static Badge](https://img.shields.io/badge/PCL_Cat-DragonXAML?logo=Github&logoColor=white&label=Github&labelColor=%23555&color=%23007EC6)
+![Static Badge](https://img.shields.io/badge/exef-star?style=social&logo=Github&logoColor=%23000&label=Github&labelColor=%23555&color=%23007EC6)
+
+
 ## 使用方法
 1. ⌛打开PCL，在上方导航栏点击设置，左侧侧边栏点击个性化，找到“主页”这个板块，在“主页”板块点击“读取本地文件”，点击“生成教学文件”按钮，会提示生成文件，此时会打开一个文件夹，里面就有一个Custom.xaml
 2. ⏳将Custom.xaml里的默认内容改为以下内容
@@ -31,3 +37,11 @@
 📦将以下代码复制到刚才生成的Custom.xaml，改完之后Ctrl+S保存文件，重启PCL
 
 📥如果你把握不了复制的格式，也可以下载整个仓库，将原来的Custom.xaml文件删了，再将仓库里的cat&dragon.xaml改成Custom.xaml，重启PCL
+
+# 关于本项目
+🎍这个表情包首页是作者的 一次尝试，非常简单的一个文件（~~简单到是个人就可以写出来~~）
+🤗在这里感谢Yang大佬的API，原文链接如下：
+```
+http://test1.ysone.top/index.php/2024/03/23/%e8%87%aa%e5%bb%ba%e5%85%ac%e7%9b%8aapi%e6%8e%a5%e5%8f%a3%e5%88%97%e8%a1%a8/
+```
+📄该项目使用MIT许可证，允许二次分发，前提需标明项目的原作者和链接
