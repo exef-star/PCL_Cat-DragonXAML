@@ -14,9 +14,9 @@
             </Grid.ColumnDefinitions>
             <!-- 为按钮添加 Grid.Column 属性指定它所在的列，不要添加 Width 与 HorizontalAlignment 属性 -->
             <local:MyButton Grid.Column="0" Margin="0,0,10,0" Height="35" ColorType="Highlight"
-                        Text="Github代码" EventType="打开网页" EventData="https://www.bilibili.com/" />
+                        Text="Github代码" EventType="打开网页" EventData="https://github.com/exef-star/PCL_Cat-DragonXAML" />
             <local:MyButton Grid.Column="1" Margin="0,0,10,0" Height="35" 
-                        Text="关于作者" EventType="弹出窗口" EventData="关于作者|HantaFrog\nVer:0.1.5\n此项目属于开源项目，不属于任何商业项目\n感谢这位的API：\nhttp://test1.ysone.top/" />
+                        Text="关于作者" EventType="弹出窗口" EventData="关于作者|HantaFrog\nVer:0.1.6\n此项目属于开源项目，不属于任何商业项目\n感谢这位的API：\nhttp://test1.ysone.top/" />
         </Grid>
     </StackPanel>
 </local:MyCard>
